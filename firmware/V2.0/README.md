@@ -1,6 +1,6 @@
 # SKR-mini-E3 V2.0 BLTouch pre-configed firmware
 
-Note: The filename must be renamed to "firmware.bin" before coping this file to the motherboard onboard TF card.
+Note: The filename must be renamed to "firmware.bin" before copying this file to the motherboard onboard TF card.
 
 firmware.bin: The original factory firmware for ender 3, cannot support BLTouch
 
